@@ -1,6 +1,7 @@
 def main():
     # Remove pass with your answer.
     pass
+ //Q2//
 
 
 if __name__ == "__main__":
